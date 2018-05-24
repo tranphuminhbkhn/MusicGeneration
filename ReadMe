@@ -1,0 +1,12 @@
+REQUIREMENT
+python 3.0
+- numpy
+- midi (download at https://github.com/louisabraham/python3-midi.git)
+- tensorflow
+- keras
+- pickle
+- pygame
+
+RUN
+- run.py : generate and train model
+- GUI.py : graphical user interface
